@@ -2,7 +2,9 @@
 
 Syntax highlight Docco-style comments.
 
-**Sound interesting?** Please star, create an issue, or  make a pull request.
+**NOTE:** This is early in development.
+
+**Sound interesting?** Please star or contribute!
 
 ## Thanks
 
